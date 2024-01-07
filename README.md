@@ -1,0 +1,2 @@
+# SFML_CMAKE_SETUP
+ Setup of SFML with CMAKE
