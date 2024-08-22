@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.29)
 project([Project-Name])
 # change to your project folder name
 
-set(CMAKE_CXX_STANDARD [C++ Version - Example:20])
+set(CMAKE_CXX_STANDARD [C++ Version] - Example: 20)
 
 add_executable([Project-Name] main.cpp)
 # change to your project folder name and source code
