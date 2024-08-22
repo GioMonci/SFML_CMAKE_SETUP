@@ -1,5 +1,4 @@
 # SFML_CMAKE_SETUP
-I was having trouble setting up SFML on clion because it uses CMAKE.
-After watching many videos online, I got it to work.
-Hopefully it works for someone else.
-~Cheers
+- Files for setting up SFML with cmake & C++
+- Works on SFML - 2.6.1
+- IDK if future versions with change the file DIRS. 
